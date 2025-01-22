@@ -1,0 +1,34 @@
+,warehouse,item_group,item_code,in_qty,out_qty
+0,Work In Progress - FCD,,,0,20
+1,,Demo Item Group,,0,20
+2,,,SKU005,0,0
+3,,,SKU004,0,20
+4,Finished Goods - FCD,,,0,40
+5,,Demo Item Group,,0,40
+6,,,SKU010,0,0
+7,,,SKU008,0,0
+8,,,SKU009,0,0
+9,,,SKU001,0,25
+10,,,SKU002,0,15
+11,Goods In Transit - FCD,,,0,0
+12,,Demo Item Group,,0,0
+13,,,SKU009,0,0
+14,,,SKU007,0,0
+15,,,SKU006,0,0
+16,Stores - FCD,,,0,450
+17,,Demo Item Group,,0,450
+18,,,SKU008,0,0
+19,,,SKU003,0,100
+20,,,SKU006,0,100
+21,,,SKU007,0,100
+22,,,SKU005,0,150
+23,Outlets - FCD,,,120,295
+24,,Leathers X,,20,245
+25,,,SKU0101,10,150
+26,,,SKU0101,10,0
+27,,,SKU0101,0,5
+28,,,SKU0102,0,90
+29,,Leathers Y,,100,50
+30,,,SKU0103,100,0
+31,,,SKU0103,0,50
+32,<b>Totals</b>,,,120,805
